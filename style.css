@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+              font-family: Montserrat, sans-serif;
+              max-width: 50%;
+              margin: auto;
+              color: #333;
+}
+/* img{
+              height: min-content;
+} */
+.header{
+              display: flex;
+              align-items: center;
+}
+
+.face{
+              width: 150px;
+              height: 150px;
+              object-fit: cover;
+              border-radius: 50%;
+              margin-top: 20px;
+}
+
+.title{
+              flex: 1;
+              margin-left: 20px;
+}
+
+.name{
+              color: gray;
+              font-weight: bolder;
+              
+}
+.coral{
+              color: coral;
+}
+
+.qualification{
+              letter-spacing: 0.5px;
+              
+
+}
+
+.hrLine{
+              border: 1px solid coral;
+}
+
+.headings{
+              min-width: 300px;
+              color: coral;
+              display: block;
+              margin-top: 20px;
+
+}
+
+.innerheading{
+              font-size: 22px;
+              
+
+}
+
+.margin{
+              margin-top: 20px;
+}
+
+.marginleft{
+              margin-left: 600px;
+}
+
+.job1{
+              font-size: 20px;
+}
+.italic{
+              font-style: italic;
+              font-size: 13px;
+}
+
+.align{
+              text-align: justify;
+}
+.link{
+              color: coral;
+}
